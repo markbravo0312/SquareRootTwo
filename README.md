@@ -7,9 +7,9 @@ A fixed point struct **bignum** is used with optimized arithmetic. *Karatsuba mu
 Program usage:
     1. make to compile
     2. call executable with following arguments:
-       - B<int> to call the program with benchmakr spec. (int signifies number of repetitions)
-       - d<int> to output value of <int> decimal places of the square root of two to the console.
-       - h<int> to output value of <int> hexadecimal places of the square root of two to the console.
+       - B*x* to call the program with benchmakr spec. (int signifies number of repetitions)
+       - d*x* to output value of *x* decimal places of the square root of two to the console.
+       - h*x* to output value of *x* hexadecimal places of the square root of two to the console.
     3. Use --help for additional information.
 
 
