@@ -11,3 +11,6 @@ Program usage:
        - d<int> to output value of <int> decimal places of the square root of two to the console.
        - h<int> to output value of <int> hexadecimal places of the square root of two to the console.
     3. Use --help for additional information.
+
+
+The program can wiht 100% accuracy calculate the Square root of two up to 10 million decimal places. 
