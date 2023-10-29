@@ -14,7 +14,7 @@ Program usage:
 3. Use --help for additional information.
 
 
-The program can with 100% accuracy calculate the Square root of two up to 100 million decimal places by use of fast operations:  
+The program can with 100% accuracy calculate the Square root of two up to 20 million decimal places by use of fast operations:  
 
 By use of following formula: 
 
