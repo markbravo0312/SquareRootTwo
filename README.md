@@ -14,4 +14,12 @@ Program usage:
 3. Use --help for additional information.
 
 
-The program can wiht 100% accuracy calculate the Square root of two up to 10 million decimal places. 
+The program can with 100% accuracy calculate the Square root of two up to 100 million decimal places by use of fast operations:  
+
+By use of following formula: 
+
+
+<img width="521" alt="sqrtwo" src="https://github.com/markbravo0312/SquareRootTwo/assets/20713934/8dfee91e-5f95-4f84-bcd3-cdb25b53e212">
+
+
+Fast Matrix Exponentiation is used to compute x<sub>n</sub> and x<sub>n+1</sub> then Newton-Raphson division is used to compute x<sub>n</sub> / x<sub>n+1</sub>. Within the division algorithm itself Karatsuba Multiplication is used for the reciprocal of the divisor. 
