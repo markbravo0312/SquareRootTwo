@@ -4,7 +4,7 @@
 
 struct bignum_fixed {
     struct bignum *bignum;
-    size_t comma; // TODO: Discuss which alignment the comma should follow
+    size_t comma; 
 };
 
 char *toDec(struct bignum_fixed b);
